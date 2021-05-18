@@ -6,5 +6,5 @@
 <ul>
 <ol>ReactJS</ol>
 <ol>styled-components</ol>
-<ol>Google map API / ChatBot API / NASA open API</ol>
+<ol>Google map API / ChatBot API / NASA open API / Formik</ol>
 </ul>
