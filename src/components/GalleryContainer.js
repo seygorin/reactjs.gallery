@@ -34,10 +34,9 @@ const GlobalStyle = createGlobalStyle`
 const GalleryContainer = () => {
     return (
         <>
-        <a name="fack"></a>
         
         <GlobalStyle />
-        <Header />
+        <Header  />
         <ChatButton />
 
         <GlobalProvider>
